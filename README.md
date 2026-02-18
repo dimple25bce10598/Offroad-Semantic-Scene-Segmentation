@@ -106,10 +106,14 @@ Training loss across epochs
 Visual comparison between ground truth and predicted masks
 
 # Repository Structure
-├── README.md
-├── Test.py
-├── Train.py
-├── predictions
+- README.md
+- Test.py
+- Train.py
+- evaluation_metrics.txt
+- per_class_metrics.png
+- predictions
+- segmentation_head.pth.zip
+
 # Reproducibility & Best Practices
 
 No test data is used during training or validation
