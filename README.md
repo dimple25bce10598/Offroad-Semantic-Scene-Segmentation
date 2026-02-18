@@ -106,12 +106,10 @@ Training loss across epochs
 Visual comparison between ground truth and predicted masks
 
 # Repository Structure
-├── dataset/
-├── train.py
-├── test.py
-├── requirements.txt
 ├── README.md
-└── model.pth
+├── Test.py
+├── Train.py
+├── predictions
 # Reproducibility & Best Practices
 
 No test data is used during training or validation
@@ -137,3 +135,10 @@ Semantic understanding of unstructured environments
 Intended for educational, research, and hackathon purposes
 
 Can be extended for advanced segmentation research
+
+# Final Results
+Final Val Loss: 0.8161
+Final Val IoU: 0.2932
+Final Val Dice: 0.4372
+Final Val Accuracy: 0.7023
+
