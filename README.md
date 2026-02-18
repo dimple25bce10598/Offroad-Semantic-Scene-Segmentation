@@ -137,8 +137,8 @@ Intended for educational, research, and hackathon purposes
 Can be extended for advanced segmentation research
 
 # Final Results
-Final Val Loss: 0.8161
-Final Val IoU: 0.2932
-Final Val Dice: 0.4372
-Final Val Accuracy: 0.7023
+- Final Val Loss: 0.8161
+- Final Val IoU: 0.2932
+- Final Val Dice: 0.4372
+- Final Val Accuracy: 0.7023
 
